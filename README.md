@@ -1,4 +1,4 @@
-<h1>PONG GAME - 2 PLAYERS</h1>
+<h1>PONG GAME - 2 PLAYERS 🎾</h1>
 Pong game made in Python using the Turtle Module. <br>
 Play with your buddy in a 1v1 match. <br>
 Have fun!
